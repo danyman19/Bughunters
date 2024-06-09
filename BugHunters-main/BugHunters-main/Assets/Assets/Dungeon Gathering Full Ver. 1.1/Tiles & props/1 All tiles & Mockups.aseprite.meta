@@ -1,0 +1,2923 @@
+fileFormatVersion: 2
+guid: 95fd77b0af8907a41b3b965be10df91e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 1 All tiles & Mockups_Frame_0
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 4b817c02c1b60964d9eb5c3c0d747ec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 1 All tiles & Mockups_Frame_1
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 07af417b53975064aadc5160af8388f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 4}
+  - name: 1 All tiles & Mockups_Frame_2
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 7b1017d2b1c059e45879236e21736f8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 4}
+  - name: 1 All tiles & Mockups_Frame_3
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: b545b4c773994944391e1f095211dfa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 4}
+  - name: 1 All tiles & Mockups_Frame_4
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 7907f0d14fdf2804385138036b4360ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 4}
+  - name: 1 All tiles & Mockups_Frame_5
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 9ff7c30fb867d734b8021141bf8dad46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 4}
+  - name: 1 All tiles & Mockups_Frame_6
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: de38a77af8deddb4aa5ab8f91c741ee0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 4}
+  - name: 1 All tiles & Mockups_Frame_7
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: 21560e5a3a93e9b4ba8ad85348739b96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 4}
+  - name: 1 All tiles & Mockups_Frame_8
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 4
+      width: 1777
+      height: 1193
+    spriteID: a3a4b1bf9646fe344b43245f34f7475c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 4}
+  - name: 1 All tiles & Mockups_Frame_9
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 02edf0f43c447884a90f9c8878bda8b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_10
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 98d1358aca4988d4bb7e01ee5644acb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_11
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 9f1891186e617a345911ab86b60534e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_12
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 2eb353cf94eae7e41b1803005c4c2e6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_13
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: dc10c717b645e8d4ab717507fe03ba17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_14
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 49acea813bc505d4ea819cc1ece19bef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_15
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 11a676cbf791738419c8bd6f934d4ffa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_16
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: 23ec1edd630f01243b879433031bbaf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_17
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 1205
+      width: 1777
+      height: 1193
+    spriteID: a22e7b32aaf6e674483e525101f9e0e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 1205}
+  - name: 1 All tiles & Mockups_Frame_18
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: 09a587f343de22e469a390323802ec77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_19
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: d14135b93b21b77469511efa1f9d23e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_20
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: b63a8fd8d3dbd9d4ab7744fa81f4cae7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_21
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: 1c475f4e51a35d0488653ac00d4c1ef5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_22
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: fe54a0f151d89504f80f196ed25e2e5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_23
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: 3b95bb2d4285de54fa5ba21214ef2dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_24
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: 93e97607c9be04447bd18167c314c2a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_25
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: 87f325206e3dd3d4a9c209e5a8976cf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_26
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 2406
+      width: 1777
+      height: 1193
+    spriteID: c7e087a52e23fdf44bb74beeec2be0c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 2406}
+  - name: 1 All tiles & Mockups_Frame_27
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: b22ba5c3229b10a43bfc3a43b8362a7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_28
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 4eda31e80868f384492fb619ddca74cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_29
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 63e75306ad2f7de48bfcab4b9b7511cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_30
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 0e55c17ba40bc994184dce9c8263f3e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_31
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 32bb84cc2ef97354b95f629dc4159227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_32
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 83c8427ac851f0c4b81a016e5ad08c17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_33
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 51bdf4a8b417d5c4aacc80a3cf4210d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_34
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: eabfa71ac88d31a40b78288288a3ce6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_35
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 3607
+      width: 1777
+      height: 1193
+    spriteID: 32f6adfb607878e4b952c8868e893462
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 3607}
+  - name: 1 All tiles & Mockups_Frame_36
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: d59d0cebfdaa3b94cb2767f65639cfeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_37
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: ac3b6bd51b0427d4dbb9cbb9d702fb09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_38
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: d84484f849fae8441975aa7b4e33ecbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_39
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: 57909d3a4b0e3f8409032adaf6ace5f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_40
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: 119070819e24a6a4b9d50c5d94f4b66b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_41
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: 453fc35d104074d45bbc2f7abacc12b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_42
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: 973562c34ae107f4a8c21c1efeb71349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_43
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: e7da690e61c722c498ab12a495eb8bcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_44
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 4808
+      width: 1777
+      height: 1193
+    spriteID: 2afead926d2b6b942b028949a34d669b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 4808}
+  - name: 1 All tiles & Mockups_Frame_45
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: b0b526012b76b324facee3c799b0509b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_46
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: 0103f35a6c7db7c4cb941b8a1c7368af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_47
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: 04ad7f136df1dce439dc9d6249cde362
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_48
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: 7431bd856dc265942a1f40cbc2da5c00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_49
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: f7f849c976fe1a442892b2d99506de96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_50
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: a7bb367a0951c7548b7aa3d8b6a186eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_51
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: 204e301a59ac4364c8098dc2721130d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_52
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: d1e542e2794ee27458be63a05f1fde45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_53
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 6009
+      width: 1777
+      height: 1193
+    spriteID: 35ea78afc7bfd6549995c8216a08c6fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 6009}
+  - name: 1 All tiles & Mockups_Frame_54
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: 1582748e65556ad45b6cc827e9b2e041
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_55
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: 78cd6f429bce4b34180601f61188991d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_56
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: 4f2ad286d4e518a44846908367ea3cc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_57
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: 6dc789af27cc5e54284b00620c074c4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_58
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: d939cdf0f8ae43641859e658bcc09e46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_59
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: b924afeabd8c2464684915ac0aa83701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_60
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: fed934432417fe04cb3b5e4a6e1a6017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_61
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: dfeaeffdd3f4e4b4da88ac101f053eab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_62
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 7210
+      width: 1777
+      height: 1193
+    spriteID: 041fd7e1a0f8bf24b800ab228db45732
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 7210}
+  - name: 1 All tiles & Mockups_Frame_63
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 668dde7f73924b84b91148747fdb90c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_64
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: b0c8a9b8049412f43b55a2c38385cef1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_65
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 7a44bc8914e7b7f4fb93f8e96fd337d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_66
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 8c5c7b22f659aa84aa14897bfe226c4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_67
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 006d7f7cddcaf7a44bc780092b2e33fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_68
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: f777063f6ae98144a885f38b7e28be61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_69
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: f30a6f1b740319c4cba10f8e6c88132d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_70
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 76c026fee3abce14fa35d0af67d7cc91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_71
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 8411
+      width: 1777
+      height: 1193
+    spriteID: 39f27ee68f87ce7428cbe5435e8fe4e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 8411}
+  - name: 1 All tiles & Mockups_Frame_72
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: e8ed80049caf1ad4ab5a999c5e8c7049
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_73
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: fb17fa99e91a23b42b8451d7fe76d497
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_74
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: 9e0fcea6dce696a4b99d869c4236744f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_75
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: 47ad40c8a14dcec4bae57b36d7cef962
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_76
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: fe3a02f3fa1f1c64dab8bd30ed7a973a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_77
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: 856934dfd1cc4c24ba9a68c9c3e7762c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_78
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: bebf3cf9166e36f48918e73233fc6010
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_79
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: f5c0855e9d52aaf45bb5f8c3e74c0b8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_80
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 9612
+      width: 1777
+      height: 1193
+    spriteID: 164c3beac0efd6b428c65f1d3d9a0f7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 9612}
+  - name: 1 All tiles & Mockups_Frame_81
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: 53ed360b2394bc54b8d537ad8c2500db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_82
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: f5daa37476389e846af6eb45ad5b7d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_83
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: 27ca2687eb0d5a54b9281fe5fcab553a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_84
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: 0379ceecac1ae2e48b904d092ff3b313
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_85
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: fee2692f215efdc4eb1c2fd268849816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_86
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: 1a15f4f8946e10349bbe5d6f811f4f7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_87
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10714
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: 760ad135a9b33ad419cab298f80ecb70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10714, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_88
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 12499
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: d14f0e295feb4634984f3d94351e017d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 12499, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_89
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 14284
+      y: 10813
+      width: 1777
+      height: 1193
+    spriteID: b19e46dacae27a74b86043a8f6d4046d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 14284, y: 10813}
+  - name: 1 All tiles & Mockups_Frame_90
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: 23fec73766864e94c8518d957e7263c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 12014}
+  - name: 1 All tiles & Mockups_Frame_91
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1789
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: 5a8797796c6ea9941b5e39ebb5d5c298
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1789, y: 12014}
+  - name: 1 All tiles & Mockups_Frame_92
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3574
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: 64a0cef5474afd641b4f35570c141e3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3574, y: 12014}
+  - name: 1 All tiles & Mockups_Frame_93
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5359
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: cd962ac67c9bf8240b8061a47e727a79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 5359, y: 12014}
+  - name: 1 All tiles & Mockups_Frame_94
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 7144
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: a5c8d0271416a7347ae72343b5083134
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 7144, y: 12014}
+  - name: 1 All tiles & Mockups_Frame_95
+    originalName: 
+    pivot: {x: 0.4997186, y: -0.010896899}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8929
+      y: 12014
+      width: 1777
+      height: 1193
+    spriteID: 0c3db591086c4f84282a57c044174b59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 8929, y: 12014}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1443756707
+    name: 1 All tiles & Mockups
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 1 All tiles & Mockups_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 4b817c02c1b60964d9eb5c3c0d747ec5
+    - name: 1 All tiles & Mockups_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 07af417b53975064aadc5160af8388f1
+    - name: 1 All tiles & Mockups_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 7b1017d2b1c059e45879236e21736f8c
+    - name: 1 All tiles & Mockups_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b545b4c773994944391e1f095211dfa6
+    - name: 1 All tiles & Mockups_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 7907f0d14fdf2804385138036b4360ef
+    - name: 1 All tiles & Mockups_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 9ff7c30fb867d734b8021141bf8dad46
+    - name: 1 All tiles & Mockups_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: de38a77af8deddb4aa5ab8f91c741ee0
+    - name: 1 All tiles & Mockups_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 21560e5a3a93e9b4ba8ad85348739b96
+    - name: 1 All tiles & Mockups_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: a3a4b1bf9646fe344b43245f34f7475c
+    - name: 1 All tiles & Mockups_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 02edf0f43c447884a90f9c8878bda8b8
+    - name: 1 All tiles & Mockups_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 98d1358aca4988d4bb7e01ee5644acb2
+    - name: 1 All tiles & Mockups_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 9f1891186e617a345911ab86b60534e4
+    - name: 1 All tiles & Mockups_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 2eb353cf94eae7e41b1803005c4c2e6d
+    - name: 1 All tiles & Mockups_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: dc10c717b645e8d4ab717507fe03ba17
+    - name: 1 All tiles & Mockups_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 49acea813bc505d4ea819cc1ece19bef
+    - name: 1 All tiles & Mockups_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 11a676cbf791738419c8bd6f934d4ffa
+    - name: 1 All tiles & Mockups_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 23ec1edd630f01243b879433031bbaf7
+    - name: 1 All tiles & Mockups_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: a22e7b32aaf6e674483e525101f9e0e4
+    - name: 1 All tiles & Mockups_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 09a587f343de22e469a390323802ec77
+    - name: 1 All tiles & Mockups_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d14135b93b21b77469511efa1f9d23e0
+    - name: 1 All tiles & Mockups_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b63a8fd8d3dbd9d4ab7744fa81f4cae7
+    - name: 1 All tiles & Mockups_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 1c475f4e51a35d0488653ac00d4c1ef5
+    - name: 1 All tiles & Mockups_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: fe54a0f151d89504f80f196ed25e2e5b
+    - name: 1 All tiles & Mockups_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 3b95bb2d4285de54fa5ba21214ef2dc6
+    - name: 1 All tiles & Mockups_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 93e97607c9be04447bd18167c314c2a2
+    - name: 1 All tiles & Mockups_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 87f325206e3dd3d4a9c209e5a8976cf2
+    - name: 1 All tiles & Mockups_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: c7e087a52e23fdf44bb74beeec2be0c2
+    - name: 1 All tiles & Mockups_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b22ba5c3229b10a43bfc3a43b8362a7d
+    - name: 1 All tiles & Mockups_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 4eda31e80868f384492fb619ddca74cb
+    - name: 1 All tiles & Mockups_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 63e75306ad2f7de48bfcab4b9b7511cd
+    - name: 1 All tiles & Mockups_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 0e55c17ba40bc994184dce9c8263f3e2
+    - name: 1 All tiles & Mockups_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 32bb84cc2ef97354b95f629dc4159227
+    - name: 1 All tiles & Mockups_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 83c8427ac851f0c4b81a016e5ad08c17
+    - name: 1 All tiles & Mockups_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 51bdf4a8b417d5c4aacc80a3cf4210d5
+    - name: 1 All tiles & Mockups_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: eabfa71ac88d31a40b78288288a3ce6c
+    - name: 1 All tiles & Mockups_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 32f6adfb607878e4b952c8868e893462
+    - name: 1 All tiles & Mockups_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d59d0cebfdaa3b94cb2767f65639cfeb
+    - name: 1 All tiles & Mockups_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: ac3b6bd51b0427d4dbb9cbb9d702fb09
+    - name: 1 All tiles & Mockups_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d84484f849fae8441975aa7b4e33ecbe
+    - name: 1 All tiles & Mockups_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 57909d3a4b0e3f8409032adaf6ace5f0
+    - name: 1 All tiles & Mockups_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 119070819e24a6a4b9d50c5d94f4b66b
+    - name: 1 All tiles & Mockups_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 453fc35d104074d45bbc2f7abacc12b4
+    - name: 1 All tiles & Mockups_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 973562c34ae107f4a8c21c1efeb71349
+    - name: 1 All tiles & Mockups_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: e7da690e61c722c498ab12a495eb8bcf
+    - name: 1 All tiles & Mockups_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 2afead926d2b6b942b028949a34d669b
+    - name: 1 All tiles & Mockups_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b0b526012b76b324facee3c799b0509b
+    - name: 1 All tiles & Mockups_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 0103f35a6c7db7c4cb941b8a1c7368af
+    - name: 1 All tiles & Mockups_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 04ad7f136df1dce439dc9d6249cde362
+    - name: 1 All tiles & Mockups_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 7431bd856dc265942a1f40cbc2da5c00
+    - name: 1 All tiles & Mockups_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: f7f849c976fe1a442892b2d99506de96
+    - name: 1 All tiles & Mockups_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: a7bb367a0951c7548b7aa3d8b6a186eb
+    - name: 1 All tiles & Mockups_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 204e301a59ac4364c8098dc2721130d1
+    - name: 1 All tiles & Mockups_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d1e542e2794ee27458be63a05f1fde45
+    - name: 1 All tiles & Mockups_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 35ea78afc7bfd6549995c8216a08c6fb
+    - name: 1 All tiles & Mockups_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 1582748e65556ad45b6cc827e9b2e041
+    - name: 1 All tiles & Mockups_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 78cd6f429bce4b34180601f61188991d
+    - name: 1 All tiles & Mockups_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 4f2ad286d4e518a44846908367ea3cc3
+    - name: 1 All tiles & Mockups_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 6dc789af27cc5e54284b00620c074c4e
+    - name: 1 All tiles & Mockups_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d939cdf0f8ae43641859e658bcc09e46
+    - name: 1 All tiles & Mockups_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b924afeabd8c2464684915ac0aa83701
+    - name: 1 All tiles & Mockups_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: fed934432417fe04cb3b5e4a6e1a6017
+    - name: 1 All tiles & Mockups_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: dfeaeffdd3f4e4b4da88ac101f053eab
+    - name: 1 All tiles & Mockups_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 041fd7e1a0f8bf24b800ab228db45732
+    - name: 1 All tiles & Mockups_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 668dde7f73924b84b91148747fdb90c3
+    - name: 1 All tiles & Mockups_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b0c8a9b8049412f43b55a2c38385cef1
+    - name: 1 All tiles & Mockups_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 7a44bc8914e7b7f4fb93f8e96fd337d9
+    - name: 1 All tiles & Mockups_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 8c5c7b22f659aa84aa14897bfe226c4e
+    - name: 1 All tiles & Mockups_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 006d7f7cddcaf7a44bc780092b2e33fd
+    - name: 1 All tiles & Mockups_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: f777063f6ae98144a885f38b7e28be61
+    - name: 1 All tiles & Mockups_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: f30a6f1b740319c4cba10f8e6c88132d
+    - name: 1 All tiles & Mockups_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 76c026fee3abce14fa35d0af67d7cc91
+    - name: 1 All tiles & Mockups_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 39f27ee68f87ce7428cbe5435e8fe4e7
+    - name: 1 All tiles & Mockups_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: e8ed80049caf1ad4ab5a999c5e8c7049
+    - name: 1 All tiles & Mockups_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: fb17fa99e91a23b42b8451d7fe76d497
+    - name: 1 All tiles & Mockups_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 9e0fcea6dce696a4b99d869c4236744f
+    - name: 1 All tiles & Mockups_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 47ad40c8a14dcec4bae57b36d7cef962
+    - name: 1 All tiles & Mockups_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: fe3a02f3fa1f1c64dab8bd30ed7a973a
+    - name: 1 All tiles & Mockups_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 856934dfd1cc4c24ba9a68c9c3e7762c
+    - name: 1 All tiles & Mockups_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: bebf3cf9166e36f48918e73233fc6010
+    - name: 1 All tiles & Mockups_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: f5c0855e9d52aaf45bb5f8c3e74c0b8e
+    - name: 1 All tiles & Mockups_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 164c3beac0efd6b428c65f1d3d9a0f7c
+    - name: 1 All tiles & Mockups_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 53ed360b2394bc54b8d537ad8c2500db
+    - name: 1 All tiles & Mockups_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: f5daa37476389e846af6eb45ad5b7d93
+    - name: 1 All tiles & Mockups_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 27ca2687eb0d5a54b9281fe5fcab553a
+    - name: 1 All tiles & Mockups_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 0379ceecac1ae2e48b904d092ff3b313
+    - name: 1 All tiles & Mockups_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: fee2692f215efdc4eb1c2fd268849816
+    - name: 1 All tiles & Mockups_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 1a15f4f8946e10349bbe5d6f811f4f7f
+    - name: 1 All tiles & Mockups_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 760ad135a9b33ad419cab298f80ecb70
+    - name: 1 All tiles & Mockups_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: d14f0e295feb4634984f3d94351e017d
+    - name: 1 All tiles & Mockups_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: b19e46dacae27a74b86043a8f6d4046d
+    - name: 1 All tiles & Mockups_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 23fec73766864e94c8518d957e7263c2
+    - name: 1 All tiles & Mockups_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 5a8797796c6ea9941b5e39ebb5d5c298
+    - name: 1 All tiles & Mockups_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 64a0cef5474afd641b4f35570c141e3c
+    - name: 1 All tiles & Mockups_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: cd962ac67c9bf8240b8061a47e727a79
+    - name: 1 All tiles & Mockups_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: a5c8d0271416a7347ae72343b5083134
+    - name: 1 All tiles & Mockups_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 16
+        y: 13
+        width: 1777
+        height: 1193
+      spriteId: 0c3db591086c4f84282a57c044174b59
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 1808, y: 1212}

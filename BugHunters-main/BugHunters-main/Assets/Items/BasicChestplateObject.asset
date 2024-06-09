@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c615d4c2bfd3c743a2bce0001d7eac4, type: 3}
+  m_Name: BasicChestplateObject
+  m_EditorClassIdentifier: 
+  Name: Chestplate
+  Sprite: {fileID: 21300000, guid: 3c54fbd39ab4717419b373fb846919e3, type: 3}
+  BaseObject: {fileID: 6829090587027778482, guid: 87bb472c9a7b6c1479a716408ba94d19, type: 3}
+  LightPrefab: {fileID: 0}
+  Type: 2
+  EquipmentSlotType: 3
+  Description: 
+  Shield: 5
+  ClothesItemType: 1

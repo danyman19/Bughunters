@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da80a3bff33485543a9091715463e352, type: 3}
+  m_Name: DaggerObject
+  m_EditorClassIdentifier: 
+  Name: Dagger
+  Sprite: {fileID: 21300000, guid: 15be2fd2aa654ab40bcf33c89c8ac80e, type: 3}
+  BaseObject: {fileID: 6829090587027778482, guid: 87bb472c9a7b6c1479a716408ba94d19, type: 3}
+  LightPrefab: {fileID: 3940984944937192403, guid: b154bf2a88bcb15419ababf4ee306f73, type: 3}
+  Type: 1
+  EquipmentSlotType: 5
+  Description: 
+  Range: 1
+  AttackSpeed: 3
+  WeaponItemType: 1
+  DamageRanges:
+  - 1
+  - 3
+  - 7
+  - 10

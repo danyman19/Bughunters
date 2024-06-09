@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da80a3bff33485543a9091715463e352, type: 3}
+  m_Name: SwordObject
+  m_EditorClassIdentifier: 
+  Name: Sword
+  Sprite: {fileID: 21300000, guid: 2c895b50a5cbe384fbbb43e4112e1e8b, type: 3}
+  BaseObject: {fileID: 6829090587027778482, guid: 87bb472c9a7b6c1479a716408ba94d19, type: 3}
+  LightPrefab: {fileID: 5261941839888287301, guid: 24edd483fe2313b4abffef96cd2c9cb9, type: 3}
+  Type: 1
+  EquipmentSlotType: 5
+  Description: 
+  Range: 3
+  AttackSpeed: 1
+  WeaponItemType: 2
+  DamageRanges:
+  - 3
+  - 5
+  - 9
+  - 12
